@@ -5,3 +5,4 @@ langchain-community
 pypdf
 faiss-cpu
 tiktoken
+langchain-chains
