@@ -1,6 +1,7 @@
 streamlit
 langchain-openai
 langchain-community
+langchain
 pypdf
 faiss-cpu
 tiktoken
